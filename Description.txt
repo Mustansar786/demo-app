@@ -1,0 +1,19 @@
+Core Backend:-
+
+1. open core-backend folder
+2. run npm install
+then run 
+3. npm run dev
+ for starting backend server
+
+
+Demo App:-
+
+1. open demo-app folder
+2. run npm install
+then run 
+3. npm start
+ for starting local client server
+
+if you enter this url on browser ( http://localhost:3000/login )
+above url open the demo app
